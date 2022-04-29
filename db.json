@@ -1,1 +1,197 @@
 
+{
+    "posts": [
+    {
+      "billingAccountNumber": 1,
+      "title": "Post 1"
+    },
+    {
+      "billingAccountNumber": 2,
+      "title": "Post 2"
+    },
+    {
+      "billingAccountNumber": 3,
+      "title": "Post 3"
+    }
+  ],
+
+"billinginfo": [
+    {
+        "status": "Outstanding",
+        "dueDate": "2021-03-30T00:00:00",
+        "method": {
+            "creditCard": null,
+            "latestPaymentStatus": "None",
+            "type": "AutomaticCardPayment"
+        },
+        "period": {
+            "month": 4,
+            "year": 2021,
+            "from": "2021-04-01T00:00:00",
+            "to": "2021-06-30T00:00:00",
+            "type": "QuarterlyBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 2547721,
+        "number": 24,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 1194.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2021-03-10T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    },
+    {
+        "status": "Settled",
+        "dueDate": "2020-12-29T00:00:00",
+        "method": {
+            "creditCard": null,
+            "latestPaymentStatus": "None",
+            "type": "AutomaticCardPayment"
+        },
+        "period": {
+            "month": 12,
+            "year": 2020,
+            "type": "OneTimeBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 168897,
+        "number": 23,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 894.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2020-12-07T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    },
+    {
+        "status": "Settled",
+        "dueDate": "2020-09-17T00:00:00",
+        "method": {
+            "type": "ManualPayment"
+        },
+        "period": {
+            "month": 10,
+            "year": 2020,
+            "from": "2020-10-01T00:00:00",
+            "to": "2020-12-31T00:00:00",
+            "type": "QuarterlyBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 168896,
+        "number": 22,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 894.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2020-09-02T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    },
+    {
+        "status": "Settled",
+        "dueDate": "2020-07-30T00:00:00",
+        "method": {
+            "creditCard": null,
+            "latestPaymentStatus": "None",
+            "type": "AutomaticCardPayment"
+        },
+        "period": {
+            "month": 7,
+            "year": 2020,
+            "from": "2020-07-01T00:00:00",
+            "to": "2020-09-30T00:00:00",
+            "type": "QuarterlyBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 168895,
+        "number": 21,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 1044.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2020-07-10T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    },
+    {
+        "status": "Settled",
+        "dueDate": "2020-04-29T00:00:00",
+        "method": {
+            "creditCard": null,
+            "latestPaymentStatus": "None",
+            "type": "AutomaticCardPayment"
+        },
+        "period": {
+            "month": 4,
+            "year": 2020,
+            "from": "2020-04-01T00:00:00",
+            "to": "2020-06-30T00:00:00",
+            "type": "QuarterlyBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 168894,
+        "number": 20,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 894.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2020-04-15T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    },
+    {
+        "status": "Settled",
+        "dueDate": "2020-01-30T00:00:00",
+        "method": {
+            "creditCard": null,
+            "latestPaymentStatus": "None",
+            "type": "AutomaticCardPayment"
+        },
+        "period": {
+            "month": 1,
+            "year": 2020,
+            "from": "2020-01-01T00:00:00",
+            "to": "2020-03-31T00:00:00",
+            "type": "QuarterlyBillingPeriod"
+        },
+        "type": "Invoice",
+        "id": 168893,
+        "number": 19,
+        "billingAccountNumber": 307394724,
+        "totalInclVat": {
+            "amount": 894.0,
+            "currencyCode": "DKK"
+        },
+        "createdAtDate": "2020-01-13T00:00:00",
+        "lines": [],
+        "products": [
+            "TV (Dummy)",
+            "Mobil (Dummy)"
+        ]
+    }
+]
+
+}
