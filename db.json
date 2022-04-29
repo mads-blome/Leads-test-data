@@ -91,39 +91,6 @@
       "billingAccountNumber": 1,
       "title": "Post 1"
     }
-  ],
-
-"billinginfo": [
-    {
-        "status": "Outstanding",
-        "dueDate": "2021-03-30T00:00:00",
-        "method": {
-            "creditCard": null,
-            "latestPaymentStatus": "None",
-            "type": "AutomaticCardPayment"
-        },
-        "period": {
-            "month": 4,
-            "year": 2021,
-            "from": "2021-04-01T00:00:00",
-            "to": "2021-06-30T00:00:00",
-            "type": "QuarterlyBillingPeriod"
-        },
-        "type": "Invoice",
-        "id": 2547721,
-        "number": 24,
-        "billingAccountNumber": 307394724,
-        "totalInclVat": {
-            "amount": 1194.0,
-            "currencyCode": "DKK"
-        },
-        "createdAtDate": "2021-03-10T00:00:00",
-        "lines": [],
-        "products": [
-            "TV (Dummy)",
-            "Mobil (Dummy)"
-        ]
-    }
-]
+  ]
 
 }
