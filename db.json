@@ -1,5 +1,27 @@
 
 {
+	"consents": [
+	  {
+		"permissions": {
+		  "property1": {
+			"allow": true,
+			"recipient": "string",
+			"type": "email"
+		  },
+		  "property2": {
+			"allow": true,
+			"recipient": "string",
+			"type": "email"
+		  }
+		},
+		"origin": "string",
+		"id": "string",
+		"identity": {},
+		"origin_meta": {},
+		"updated_at": "2022-04-29T07:53:02.741107+00:00",
+		"created_at": "2022-04-29T07:53:02.741171+00:00"
+	  }
+	],
     "posts": [
     {
       "billingAccountNumber": 1,
